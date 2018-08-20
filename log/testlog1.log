@@ -1,0 +1,318 @@
+2018-07-22 21:46:36,729 [main] INFO FormTest - Safari Opened
+2018-07-22 21:46:43,397 [main] INFO FormTest - Website launched
+2018-07-22 21:47:53,577 [main] INFO FormTest - Safari Opened
+2018-07-22 21:47:59,581 [main] INFO FormTest - Website launched
+2018-07-22 21:48:50,555 [main] INFO FormTest - Safari Opened
+2018-07-22 21:48:57,273 [main] INFO FormTest - Website launched
+2018-07-22 22:20:44,139 [main] INFO FormTest - Browser Opened
+2018-07-22 22:20:50,224 [main] INFO FormTest - Website launched
+2018-07-22 22:27:01,694 [main] INFO FormTest - Browser Opened
+2018-07-22 22:27:07,757 [main] INFO FormTest - Website launched
+2018-07-22 22:27:32,187 [main] INFO FormTest - Browser Opened
+2018-07-22 22:27:37,689 [main] INFO FormTest - Website launched
+2018-07-22 22:28:42,159 [main] INFO FormTest - Browser Opened
+2018-07-22 22:28:47,964 [main] INFO FormTest - Website launched
+2018-07-22 22:33:00,840 [main] INFO FormTest - Browser Opened
+2018-07-22 22:45:17,840 [main] INFO FormTest - Browser Opened
+2018-07-22 22:45:23,577 [main] INFO FormTest - Website launched
+2018-07-22 22:51:41,904 [main] INFO FormTest - Browser Opened
+2018-07-22 22:51:43,194 [main] INFO FormTest - Website launched
+2018-07-22 22:52:26,245 [main] INFO FormTest - Browser Opened
+2018-07-22 22:52:27,669 [main] INFO FormTest - Website launched
+2018-07-22 22:52:54,073 [main] INFO FormTest - Browser Opened
+2018-07-22 22:53:00,145 [main] INFO FormTest - Website launched
+2018-07-22 22:55:01,892 [main] INFO FormTest - Browser Opened
+2018-07-22 22:55:03,224 [main] INFO FormTest - Website launched
+2018-07-22 22:55:03,931 [main] INFO FormTest - First name entered
+2018-07-22 22:55:04,642 [main] INFO FormTest - Last name entered
+2018-07-22 22:55:05,908 [main] INFO FormTest - Street entered
+2018-07-22 22:55:06,619 [main] INFO FormTest - Suite entered
+2018-07-22 22:55:07,743 [main] INFO FormTest - City entered
+2018-07-22 22:55:08,458 [main] INFO FormTest - State selected
+2018-07-22 22:55:08,808 [main] INFO FormTest - Zip code entered
+2018-07-22 22:55:09,514 [main] INFO FormTest - Education selected
+2018-07-22 22:55:09,687 [main] INFO FormTest - Income selected
+2018-07-22 22:55:10,234 [main] INFO FormTest - Phone number entered
+2018-07-22 22:55:10,831 [main] INFO FormTest - Zip code entered
+2018-07-22 22:55:12,061 [main] INFO FormTest - Email entered
+2018-07-22 22:55:13,054 [main] INFO FormTest - Password entered
+2018-07-22 22:55:13,790 [main] INFO FormTest - Password re-entered
+2018-07-22 22:55:14,431 [main] INFO FormTest - I agree to terms checked
+2018-07-22 22:55:15,069 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:09:05,501 [main] INFO FormTest - Browser Opened
+2018-07-22 23:09:06,767 [main] INFO FormTest - Website launched
+2018-07-22 23:09:07,518 [main] INFO FormTest - First name entered
+2018-07-22 23:09:08,253 [main] INFO FormTest - Last name entered
+2018-07-22 23:09:09,527 [main] INFO FormTest - Street entered
+2018-07-22 23:09:10,231 [main] INFO FormTest - Suite entered
+2018-07-22 23:09:11,362 [main] INFO FormTest - City entered
+2018-07-22 23:09:12,071 [main] INFO FormTest - State selected
+2018-07-22 23:09:12,436 [main] INFO FormTest - Zip code entered
+2018-07-22 23:09:13,130 [main] INFO FormTest - Education selected
+2018-07-22 23:09:13,302 [main] INFO FormTest - Income selected
+2018-07-22 23:09:13,873 [main] INFO FormTest - Phone number entered
+2018-07-22 23:09:14,475 [main] INFO FormTest - Zip code entered
+2018-07-22 23:09:15,669 [main] INFO FormTest - Email entered
+2018-07-22 23:09:16,652 [main] INFO FormTest - Password entered
+2018-07-22 23:09:17,394 [main] INFO FormTest - Password re-entered
+2018-07-22 23:09:18,034 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:09:18,667 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:10:17,289 [main] INFO FormTest - Browser Opened
+2018-07-22 23:10:18,740 [main] INFO FormTest - Website launched
+2018-07-22 23:10:19,464 [main] INFO FormTest - First name entered
+2018-07-22 23:10:20,172 [main] INFO FormTest - Last name entered
+2018-07-22 23:10:21,445 [main] INFO FormTest - Street entered
+2018-07-22 23:10:22,164 [main] INFO FormTest - Suite entered
+2018-07-22 23:10:23,311 [main] INFO FormTest - City entered
+2018-07-22 23:10:24,032 [main] INFO FormTest - State selected
+2018-07-22 23:10:24,401 [main] INFO FormTest - Zip code entered
+2018-07-22 23:10:25,091 [main] INFO FormTest - Education selected
+2018-07-22 23:10:25,264 [main] INFO FormTest - Income selected
+2018-07-22 23:10:25,832 [main] INFO FormTest - Phone number entered
+2018-07-22 23:10:26,431 [main] INFO FormTest - Zip code entered
+2018-07-22 23:10:27,628 [main] INFO FormTest - Email entered
+2018-07-22 23:10:28,597 [main] INFO FormTest - Password entered
+2018-07-22 23:10:29,350 [main] INFO FormTest - Password re-entered
+2018-07-22 23:10:29,991 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:10:30,627 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:12:15,462 [main] INFO FormTest - Browser Opened
+2018-07-22 23:12:16,848 [main] INFO FormTest - Website launched
+2018-07-22 23:12:17,470 [main] INFO FormTest - First name entered
+2018-07-22 23:12:18,180 [main] INFO FormTest - Last name entered
+2018-07-22 23:12:19,472 [main] INFO FormTest - Street entered
+2018-07-22 23:12:20,178 [main] INFO FormTest - Suite entered
+2018-07-22 23:12:21,341 [main] INFO FormTest - City entered
+2018-07-22 23:12:22,051 [main] INFO FormTest - State selected
+2018-07-22 23:12:22,405 [main] INFO FormTest - Zip code entered
+2018-07-22 23:12:23,102 [main] INFO FormTest - Education selected
+2018-07-22 23:12:23,278 [main] INFO FormTest - Income selected
+2018-07-22 23:12:23,872 [main] INFO FormTest - Phone number entered
+2018-07-22 23:12:24,477 [main] INFO FormTest - Zip code entered
+2018-07-22 23:12:25,669 [main] INFO FormTest - Email entered
+2018-07-22 23:12:26,641 [main] INFO FormTest - Password entered
+2018-07-22 23:12:27,377 [main] INFO FormTest - Password re-entered
+2018-07-22 23:12:28,015 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:12:28,653 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:37:53,812 [main] INFO FormTest - Browser Opened
+2018-07-22 23:37:55,288 [main] INFO FormTest - Website launched
+2018-07-22 23:37:55,960 [main] INFO FormTest - First name entered
+2018-07-22 23:37:56,681 [main] INFO FormTest - Last name entered
+2018-07-22 23:37:57,950 [main] INFO FormTest - Street entered
+2018-07-22 23:37:58,668 [main] INFO FormTest - Suite entered
+2018-07-22 23:37:59,786 [main] INFO FormTest - City entered
+2018-07-22 23:38:00,508 [main] INFO FormTest - State selected
+2018-07-22 23:38:00,877 [main] INFO FormTest - Zip code entered
+2018-07-22 23:38:01,579 [main] INFO FormTest - Education selected
+2018-07-22 23:38:01,750 [main] INFO FormTest - Income selected
+2018-07-22 23:38:02,309 [main] INFO FormTest - Phone number entered
+2018-07-22 23:38:02,911 [main] INFO FormTest - Zip code entered
+2018-07-22 23:38:04,082 [main] INFO FormTest - Email entered
+2018-07-22 23:38:05,046 [main] INFO FormTest - Password entered
+2018-07-22 23:38:05,772 [main] INFO FormTest - Password re-entered
+2018-07-22 23:38:06,414 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:38:07,056 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:39:55,068 [main] INFO FormTest - Browser Opened
+2018-07-22 23:39:56,510 [main] INFO FormTest - Website launched
+2018-07-22 23:39:57,199 [main] INFO FormTest - First name entered
+2018-07-22 23:39:57,899 [main] INFO FormTest - Last name entered
+2018-07-22 23:39:59,153 [main] INFO FormTest - Street entered
+2018-07-22 23:39:59,854 [main] INFO FormTest - Suite entered
+2018-07-22 23:40:00,984 [main] INFO FormTest - City entered
+2018-07-22 23:40:01,688 [main] INFO FormTest - State selected
+2018-07-22 23:40:02,032 [main] INFO FormTest - Zip code entered
+2018-07-22 23:40:02,719 [main] INFO FormTest - Education selected
+2018-07-22 23:40:02,887 [main] INFO FormTest - Income selected
+2018-07-22 23:40:03,441 [main] INFO FormTest - Phone number entered
+2018-07-22 23:40:04,037 [main] INFO FormTest - Zip code entered
+2018-07-22 23:40:05,188 [main] INFO FormTest - Email entered
+2018-07-22 23:40:06,135 [main] INFO FormTest - Password entered
+2018-07-22 23:40:06,863 [main] INFO FormTest - Password re-entered
+2018-07-22 23:40:07,497 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:40:08,132 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:41:30,801 [main] INFO FormTest - Browser Opened
+2018-07-22 23:41:32,106 [main] INFO FormTest - Website launched
+2018-07-22 23:41:32,704 [main] INFO FormTest - First name entered
+2018-07-22 23:41:33,405 [main] INFO FormTest - Last name entered
+2018-07-22 23:41:34,670 [main] INFO FormTest - Street entered
+2018-07-22 23:41:35,385 [main] INFO FormTest - Suite entered
+2018-07-22 23:41:36,504 [main] INFO FormTest - City entered
+2018-07-22 23:41:37,205 [main] INFO FormTest - State selected
+2018-07-22 23:41:37,548 [main] INFO FormTest - Zip code entered
+2018-07-22 23:41:38,226 [main] INFO FormTest - Education selected
+2018-07-22 23:41:38,398 [main] INFO FormTest - Income selected
+2018-07-22 23:41:38,952 [main] INFO FormTest - Phone number entered
+2018-07-22 23:41:39,548 [main] INFO FormTest - Zip code entered
+2018-07-22 23:41:40,700 [main] INFO FormTest - Email entered
+2018-07-22 23:41:41,666 [main] INFO FormTest - Password entered
+2018-07-22 23:41:42,390 [main] INFO FormTest - Password re-entered
+2018-07-22 23:41:43,028 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:41:43,665 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:42:45,995 [main] INFO FormTest - Browser Opened
+2018-07-22 23:42:47,538 [main] INFO FormTest - Website launched
+2018-07-22 23:42:48,325 [main] INFO FormTest - First name entered
+2018-07-22 23:42:49,031 [main] INFO FormTest - Last name entered
+2018-07-22 23:42:50,302 [main] INFO FormTest - Street entered
+2018-07-22 23:42:51,006 [main] INFO FormTest - Suite entered
+2018-07-22 23:42:52,131 [main] INFO FormTest - City entered
+2018-07-22 23:42:52,855 [main] INFO FormTest - State selected
+2018-07-22 23:42:53,206 [main] INFO FormTest - Zip code entered
+2018-07-22 23:42:53,893 [main] INFO FormTest - Education selected
+2018-07-22 23:42:54,059 [main] INFO FormTest - Income selected
+2018-07-22 23:42:54,611 [main] INFO FormTest - Phone number entered
+2018-07-22 23:42:55,212 [main] INFO FormTest - Zip code entered
+2018-07-22 23:42:56,365 [main] INFO FormTest - Email entered
+2018-07-22 23:42:57,325 [main] INFO FormTest - Password entered
+2018-07-22 23:42:58,057 [main] INFO FormTest - Password re-entered
+2018-07-22 23:42:58,701 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:42:59,336 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:44:22,363 [main] INFO FormTest - Browser Opened
+2018-07-22 23:44:23,792 [main] INFO FormTest - Website launched
+2018-07-22 23:44:24,484 [main] INFO FormTest - First name entered
+2018-07-22 23:44:25,179 [main] INFO FormTest - Last name entered
+2018-07-22 23:44:26,439 [main] INFO FormTest - Street entered
+2018-07-22 23:44:27,144 [main] INFO FormTest - Suite entered
+2018-07-22 23:44:28,272 [main] INFO FormTest - City entered
+2018-07-22 23:44:28,988 [main] INFO FormTest - State selected
+2018-07-22 23:44:29,333 [main] INFO FormTest - Zip code entered
+2018-07-22 23:44:30,028 [main] INFO FormTest - Education selected
+2018-07-22 23:44:30,192 [main] INFO FormTest - Income selected
+2018-07-22 23:44:30,756 [main] INFO FormTest - Phone number entered
+2018-07-22 23:44:31,354 [main] INFO FormTest - Zip code entered
+2018-07-22 23:44:32,501 [main] INFO FormTest - Email entered
+2018-07-22 23:44:33,531 [main] INFO FormTest - Password entered
+2018-07-22 23:44:34,255 [main] INFO FormTest - Password re-entered
+2018-07-22 23:44:34,890 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:44:35,523 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:47:59,287 [main] INFO FormTest - Browser Opened
+2018-07-22 23:48:00,733 [main] INFO FormTest - Website launched
+2018-07-22 23:48:01,369 [main] INFO FormTest - First name entered
+2018-07-22 23:48:02,075 [main] INFO FormTest - Last name entered
+2018-07-22 23:48:03,350 [main] INFO FormTest - Street entered
+2018-07-22 23:48:04,064 [main] INFO FormTest - Suite entered
+2018-07-22 23:48:05,229 [main] INFO FormTest - City entered
+2018-07-22 23:48:05,952 [main] INFO FormTest - State selected
+2018-07-22 23:48:06,342 [main] INFO FormTest - Zip code entered
+2018-07-22 23:48:07,043 [main] INFO FormTest - Education selected
+2018-07-22 23:48:07,223 [main] INFO FormTest - Income selected
+2018-07-22 23:48:07,791 [main] INFO FormTest - Phone number entered
+2018-07-22 23:48:08,393 [main] INFO FormTest - Zip code entered
+2018-07-22 23:48:09,565 [main] INFO FormTest - Email entered
+2018-07-22 23:48:10,541 [main] INFO FormTest - Password entered
+2018-07-22 23:48:11,279 [main] INFO FormTest - Password re-entered
+2018-07-22 23:48:11,919 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:48:12,555 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:49:05,445 [main] INFO FormTest - Browser Opened
+2018-07-22 23:49:06,855 [main] INFO FormTest - Website launched
+2018-07-22 23:49:07,678 [main] INFO FormTest - First name entered
+2018-07-22 23:49:08,417 [main] INFO FormTest - Last name entered
+2018-07-22 23:49:09,703 [main] INFO FormTest - Street entered
+2018-07-22 23:49:10,425 [main] INFO FormTest - Suite entered
+2018-07-22 23:49:11,584 [main] INFO FormTest - City entered
+2018-07-22 23:49:12,313 [main] INFO FormTest - State selected
+2018-07-22 23:49:12,661 [main] INFO FormTest - Zip code entered
+2018-07-22 23:49:13,367 [main] INFO FormTest - Education selected
+2018-07-22 23:49:13,545 [main] INFO FormTest - Income selected
+2018-07-22 23:49:14,174 [main] INFO FormTest - Phone number entered
+2018-07-22 23:49:14,809 [main] INFO FormTest - Zip code entered
+2018-07-22 23:49:15,994 [main] INFO FormTest - Email entered
+2018-07-22 23:49:16,972 [main] INFO FormTest - Password entered
+2018-07-22 23:49:17,718 [main] INFO FormTest - Password re-entered
+2018-07-22 23:49:18,361 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:49:19,001 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:49:21,035 [main] INFO FormTest - Check lastname correct!
+2018-07-22 23:49:21,066 [main] INFO FormTest - Check firstname correct!
+2018-07-22 23:49:21,097 [main] INFO FormTest - Check street correct!
+2018-07-22 23:49:21,126 [main] INFO FormTest - Check suite correct!
+2018-07-22 23:52:34,515 [main] INFO FormTest - Browser Opened
+2018-07-22 23:52:36,000 [main] INFO FormTest - Website launched
+2018-07-22 23:52:36,687 [main] INFO FormTest - First name entered
+2018-07-22 23:52:37,413 [main] INFO FormTest - Last name entered
+2018-07-22 23:52:38,799 [main] INFO FormTest - Street entered
+2018-07-22 23:52:39,520 [main] INFO FormTest - Suite entered
+2018-07-22 23:52:40,643 [main] INFO FormTest - City entered
+2018-07-22 23:52:41,363 [main] INFO FormTest - State selected
+2018-07-22 23:52:41,721 [main] INFO FormTest - Zip code entered
+2018-07-22 23:52:42,430 [main] INFO FormTest - Education selected
+2018-07-22 23:52:42,632 [main] INFO FormTest - Income selected
+2018-07-22 23:52:43,291 [main] INFO FormTest - Phone number entered
+2018-07-22 23:52:43,973 [main] INFO FormTest - Zip code entered
+2018-07-22 23:52:45,259 [main] INFO FormTest - Email entered
+2018-07-22 23:52:46,225 [main] INFO FormTest - Password entered
+2018-07-22 23:52:46,955 [main] INFO FormTest - Password re-entered
+2018-07-22 23:52:47,598 [main] INFO FormTest - I agree to terms checked
+2018-07-22 23:52:48,236 [main] INFO FormTest - Submit button clicked.
+2018-07-22 23:52:50,268 [main] INFO FormTest - Check lastname correct!
+2018-07-22 23:52:50,802 [main] INFO FormTest - Check firstname correct!
+2018-07-22 23:52:51,336 [main] INFO FormTest - Check street correct!
+2018-07-22 23:52:51,870 [main] INFO FormTest - Check suite correct!
+2018-07-22 23:52:52,401 [main] INFO FormTest - Check city correct!
+2018-07-22 23:52:52,933 [main] INFO FormTest - Check state correct!
+2018-07-22 23:52:53,466 [main] INFO FormTest - Check zipcode correct!
+2018-07-22 23:52:53,997 [main] INFO FormTest - Check education correct!
+2018-07-22 23:52:54,543 [main] INFO FormTest - Check income correct!
+2018-07-22 23:52:55,075 [main] INFO FormTest - Check phone number correct!
+2018-07-22 23:52:55,610 [main] INFO FormTest - Check email correct!
+2018-07-22 23:52:56,142 [main] INFO FormTest - Check password correct!
+2018-07-22 23:52:56,645 [main] INFO FormTest - Test complete
+2018-07-23 12:13:43,051 [main] INFO FormTest - Browser Opened
+2018-07-23 12:13:46,390 [main] INFO FormTest - Website launched
+2018-07-23 12:13:47,852 [main] INFO FormTest - First name entered
+2018-07-23 12:13:48,675 [main] INFO FormTest - Last name entered
+2018-07-23 12:13:50,217 [main] INFO FormTest - Street entered
+2018-07-23 12:13:50,984 [main] INFO FormTest - Suite entered
+2018-07-23 12:13:52,349 [main] INFO FormTest - City entered
+2018-07-23 12:13:53,165 [main] INFO FormTest - State selected
+2018-07-23 12:13:53,717 [main] INFO FormTest - Zip code entered
+2018-07-23 12:13:54,484 [main] INFO FormTest - Education selected
+2018-07-23 12:13:54,680 [main] INFO FormTest - Income selected
+2018-07-23 12:13:55,424 [main] INFO FormTest - Phone number entered
+2018-07-23 12:13:56,043 [main] INFO FormTest - Zip code entered
+2018-07-23 12:13:57,335 [main] INFO FormTest - Email entered
+2018-07-23 12:13:58,508 [main] INFO FormTest - Password entered
+2018-07-23 12:13:59,300 [main] INFO FormTest - Password re-entered
+2018-07-23 12:14:00,009 [main] INFO FormTest - I agree to terms checked
+2018-07-23 12:14:00,788 [main] INFO FormTest - Submit button clicked.
+2018-07-23 12:14:02,824 [main] INFO FormTest - Check lastname correct!
+2018-07-23 12:14:03,367 [main] INFO FormTest - Check firstname correct!
+2018-07-23 12:14:03,907 [main] INFO FormTest - Check street correct!
+2018-07-23 12:14:04,440 [main] INFO FormTest - Check suite correct!
+2018-07-23 12:14:04,974 [main] INFO FormTest - Check city correct!
+2018-07-23 12:14:05,504 [main] INFO FormTest - Check state correct!
+2018-07-23 12:14:06,040 [main] INFO FormTest - Check zipcode correct!
+2018-07-23 12:14:06,574 [main] INFO FormTest - Check education correct!
+2018-07-23 12:14:07,108 [main] INFO FormTest - Check income correct!
+2018-07-23 12:14:07,645 [main] INFO FormTest - Check phone number correct!
+2018-07-23 12:14:08,181 [main] INFO FormTest - Check email correct!
+2018-07-23 12:14:08,721 [main] INFO FormTest - Check password correct!
+2018-07-23 12:14:09,225 [main] INFO FormTest - Test complete
+2018-07-23 12:14:52,433 [main] INFO FormTest - Browser Opened
+2018-07-23 12:14:54,401 [main] INFO FormTest - Website launched
+2018-07-23 12:14:55,214 [main] INFO FormTest - First name entered
+2018-07-23 12:14:55,972 [main] INFO FormTest - Last name entered
+2018-07-23 12:14:57,340 [main] INFO FormTest - Street entered
+2018-07-23 12:14:58,117 [main] INFO FormTest - Suite entered
+2018-07-23 12:14:59,355 [main] INFO FormTest - City entered
+2018-07-23 12:15:00,129 [main] INFO FormTest - State selected
+2018-07-23 12:15:00,495 [main] INFO FormTest - Zip code entered
+2018-07-23 12:15:01,233 [main] INFO FormTest - Education selected
+2018-07-23 12:15:01,505 [main] INFO FormTest - Income selected
+2018-07-23 12:15:02,219 [main] INFO FormTest - Phone number entered
+2018-07-23 12:15:02,917 [main] INFO FormTest - Zip code entered
+2018-07-23 12:15:04,302 [main] INFO FormTest - Email entered
+2018-07-23 12:15:05,477 [main] INFO FormTest - Password entered
+2018-07-23 12:15:06,276 [main] INFO FormTest - Password re-entered
+2018-07-23 12:15:06,933 [main] INFO FormTest - I agree to terms checked
+2018-07-23 12:15:07,614 [main] INFO FormTest - Submit button clicked.
+2018-07-23 12:15:09,653 [main] INFO FormTest - Check lastname correct!
+2018-07-23 12:15:10,182 [main] INFO FormTest - Check firstname correct!
+2018-07-23 12:15:10,718 [main] INFO FormTest - Check street correct!
+2018-07-23 12:15:11,250 [main] INFO FormTest - Check suite correct!
+2018-07-23 12:15:11,785 [main] INFO FormTest - Check city correct!
+2018-07-23 12:15:12,324 [main] INFO FormTest - Check state correct!
+2018-07-23 12:15:12,858 [main] INFO FormTest - Check zipcode correct!
+2018-07-23 12:15:13,397 [main] INFO FormTest - Check education correct!
+2018-07-23 12:15:13,932 [main] INFO FormTest - Check income correct!
+2018-07-23 12:15:14,466 [main] INFO FormTest - Check phone number correct!
+2018-07-23 12:15:15,014 [main] INFO FormTest - Check email correct!
+2018-07-23 12:15:15,559 [main] INFO FormTest - Check password correct!
+2018-07-23 12:15:16,062 [main] INFO FormTest - Test complete
